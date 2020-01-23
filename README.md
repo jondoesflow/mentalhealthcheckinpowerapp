@@ -46,5 +46,7 @@ Power Automate:
 3. Choose "Mental Health" for the list name
 4. Associate the variables with the list columns
 
+In the App Start config, remember to change the phone numbers for your Occupational Health and Third Party Support (if you have one.  They are currently set to 111111.
+
 
 TEST THE POWER APP
