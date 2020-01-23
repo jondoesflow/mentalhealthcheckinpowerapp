@@ -3,7 +3,7 @@ This is a mental health check in application built in Microsoft PowerApps and Po
 
 Import the Power App ZIP file - MentalHealthCheckInAreyouOKPowerApp_20200123162853.zip
 
-Uploading and creating the Resources by Topic Area list:
+# Uploading and creating the Resources by Topic Area list:
 
 1. Open the "resources by topic title.iqy" file and save as an XLSX document
 2. Open IE as an administrator
@@ -21,7 +21,7 @@ Uploading and creating the Resources by Topic Area list:
 
 Do steps 1 - 13 above for "mental health.iqy" file
 
-Go to your Data Sources in the Power App
+# Go to your Data Sources in the Power App
 
 1. Remove the current Resources by Topic Area sharepoint connection
 2. Click Connectors to expand
@@ -31,7 +31,7 @@ Go to your Data Sources in the Power App
 6. Click the check box on "Resources by Topic Area"
 7. Click Connect
 
-Go to the FurtherInformation page
+# Go to the FurtherInformation page
 
 1. Click on the 1st dropdown control "DropdownTopic" ensure Items object is set to "Sort(Distinct(ColResources,'Topic Name'),Result)"
 2. Click on the 2nd dropdown control "DropdownOrganisation" ensure Items object is set to "Filter(ColResources,'Topic Name'=DropdownTopic.Selected.Result)"
@@ -39,7 +39,7 @@ Go to the FurtherInformation page
 
 THIS COMPLETES THE POWER APP SETUP
 
-Power Automate:
+# Power Automate Setup:
 
 1. Go to the Are you ok main flow
 2. Select the Sharepoint site address for your tenant
@@ -49,4 +49,4 @@ Power Automate:
 In the App Start config, remember to change the phone numbers for your Occupational Health and Third Party Support (if you have one.  They are currently set to 111111.
 
 
-TEST THE POWER APP
+# TEST THE POWER APP
