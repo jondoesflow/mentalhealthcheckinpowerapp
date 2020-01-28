@@ -36,8 +36,12 @@ Do steps 1 - 13 above for "mental health.iqy" file
 1. Click on the 1st dropdown control "DropdownTopic" ensure Items object is set to "Sort(Distinct(ColResources,'Topic Name'),Result)"
 2. Click on the 2nd dropdown control "DropdownOrganisation" ensure Items object is set to "Filter(ColResources,'Topic Name'=DropdownTopic.Selected.Result)"
 
+# App Start
 
-THIS COMPLETES THE POWER APP SETUP
+In the App Start config, remember to change the phone numbers for your Occupational Health and Third Party Support (if you have one.  They are currently set to 111111.
+
+# THIS COMPLETES THE POWER APP SETUP
+
 
 # Power Automate Setup:
 
@@ -46,7 +50,7 @@ THIS COMPLETES THE POWER APP SETUP
 3. Choose "Mental Health" for the list name
 4. Associate the variables with the list columns
 
-In the App Start config, remember to change the phone numbers for your Occupational Health and Third Party Support (if you have one.  They are currently set to 111111.
+
 
 
 # TEST THE POWER APP
