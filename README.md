@@ -54,3 +54,13 @@ In the App Start config, remember to change the phone numbers for your Occupatio
 
 
 # TEST THE POWER APP
+
+# AUTHOR DETAILS
+
+Jon Russell
+Https://Twitter.com/JonDoesFlow
+Jon@jondoesflow.com
+
+# USAGE
+
+Anyone can use this application. You just need PowerApps, Power Automate as part of a Microsoft Office 365 subscription. 
