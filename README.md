@@ -1,3 +1,11 @@
+# INTRODUCTION
+
+I was asked by Microsoft to write a blog post on their Humans of IT series - https://techcommunity.microsoft.com/t5/humans-of-it-blog/guest-blog-6-ways-to-maintain-and-foster-your-tech-superpower/ba-p/1120971
+
+At the end of this post, I decided that I needed to go further than write about it, I needed to do something.  This was my first foray into PowerApps and i had a vision of what it needed to do and I had the benefit of being on both sides of the coin.  Suffering from anxiety for the last 4 years or so and also having the ability to get up and running with Power Automate and PowerApps left me in a great position to be able to build this and share it for others.
+
+Thanks for reading.
+
 # mentalhealthcheckinpowerapp
 This is a mental health check in application built in Microsoft PowerApps and Power Automate
 
@@ -58,7 +66,9 @@ In the App Start config, remember to change the phone numbers for your Occupatio
 # AUTHOR DETAILS
 
 Jon Russell
+
 Https://Twitter.com/JonDoesFlow
+
 Jon@jondoesflow.com
 
 # USAGE
